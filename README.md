@@ -1,10 +1,13 @@
-# DyMol
+# DyMol: Dynamic Many-Objective Molecular Optimization: Unfolding Complexity with Objective Decomposition and Progressive Optimization
 Official implementation of "Dynamic Many-Objective Molecular Optimization: Unfolding Complexity with Objective Decomposition and Progressive Optimization"
 
+## Paper:
 For full paper (including the supplementary material) please [click here](./DyMol_FullPaper.pdf).
 
 For the supplementary material only please [click here](./DyMol_Supplementary.pdf).
 
+
+## Experiments:
 You can simply run the code by, 
 ```bash
 python run.py reinvent_cl --oracles qed:1+sa:1+jnk3:1+gsk3b:1 --seed=1
