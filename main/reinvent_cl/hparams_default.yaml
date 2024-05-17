@@ -1,0 +1,13 @@
+learning_rate: 0.0005
+batch_size: 64
+sigma: 500
+experience_replay: 24
+save_path: 'main/reinvent_game/reinvent_models/runs'
+AHC: 0.0
+diversity_filter:
+    name: "" # select from args. IdenticalMurckoScaffold, ScaffoldSimilarity, IdenticalTopologicalScaffold, NoFilter
+    minscore: 0.3
+    bucket_size: 25
+    minsimilarity: 0.6
+
+
