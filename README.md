@@ -8,7 +8,8 @@ For the supplementary material only please [click here](./DyMol_Supplementary.pd
 
 
 ## Experiments:
-Note that our code is heavily dependent on the PMO benchmark code, which can be found [here](https://github.com/wenhao-gao/mol_opt).
+Note that our code is heavily dependent on the PMO benchmark code, which can be found [here](https://github.com/wenhao-gao/mol_opt) (Gao et al., NeurIPS 2022 Track on Datasets and Benchmarks).
+
 
 You can simply run the DyMol code by using the following command:
 ```bash
