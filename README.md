@@ -12,7 +12,7 @@ python run.py reinvent_cl --oracles qed:1+sa:1+jnk3:1+gsk3b:1 --seed=1
 
 ## Colab Notebook
 
-The Colab notebook for this project can be found [here](DyMol%20Colab%20Notebook.ipynb).
+The Colab notebook for this project can be found here. [Open in Colab](https://colab.research.google.com/drive/1iiDNJDSDEqcjRJNT402hz5B3I_boN3Mw#scrollTo=9tnOBuBOprD6)
 
 ### Important Note
 
