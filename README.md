@@ -5,9 +5,8 @@ For full paper (including the supplementary material) please [click here](./DyMo
 
 For the supplementary material only please [click here](./DyMol_Supplementary.pdf).
 
-
+You can simply run the code by, 
 ```bash
 python run.py reinvent_cl --oracles qed:1+sa:1+jnk3:1+gsk3b:1 --seed=1
-ㅁㄴㅇ
 ```
-ㅁㄴㅇ
+
