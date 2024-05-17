@@ -7,5 +7,5 @@ For the supplementary material only please [click here](./DyMol_Supplementary.pd
 
 
 ```bash
-python script_name.py --option1 value1 --option2 value2
+python run.py reinvent_cl --oracles qed:1+sa:1+jnk3:1+gsk3b:1 --seed=1
 
