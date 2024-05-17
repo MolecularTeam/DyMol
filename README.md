@@ -8,12 +8,14 @@ For the supplementary material only please [click here](./DyMol_Supplementary.pd
 
 
 ## Experiments:
-You can simply run the code by, 
+Note that our code is heavily dependent on the PMO benchmark code, which can be found [here](https://github.com/wenhao-gao/mol_opt).
+
+You can simply run the DyMol code by, 
 ```bash
 python run.py reinvent_cl --oracles qed:1+sa:1+jnk3:1+gsk3b:1 --seed=1
 ```
 
-## Colab Notebook
+## Colab Notebook:
 
 The Colab notebook for this project can be found here. [Open in Colab](https://colab.research.google.com/drive/1iiDNJDSDEqcjRJNT402hz5B3I_boN3Mw#scrollTo=9tnOBuBOprD6)
 
