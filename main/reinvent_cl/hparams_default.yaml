@@ -7,7 +7,7 @@ AHC: 0.0
 diversity_filter:
     name: "" # select from args. IdenticalMurckoScaffold, ScaffoldSimilarity, IdenticalTopologicalScaffold, NoFilter
     minscore: 0.3
-    bucket_size: 25
+    bucket_size: 5
     minsimilarity: 0.6
 
 
