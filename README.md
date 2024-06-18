@@ -7,7 +7,7 @@ Official implementation of "Dynamic Many-Objective Molecular Optimization: Unfol
 
 (a) **Objective Decomposition:** our method decomposes complex many-objective sets into more manageable sub-problems facilitated by our decomposition module, which analyzes the complexities of each objective and automatically determines the order.
 
-(b) **Progressive Optimization:** the optimization begins with a single objective and systematically incorporates additional objectives based on the decomposition order.
+(b) **Progressive Optimization:** The optimization process begins with a single objective and, as time progresses, systematically incorporates each subsequent objective according to the decomposition order.
 
 
 
