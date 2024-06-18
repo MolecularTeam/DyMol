@@ -3,6 +3,13 @@ Official implementation of "Dynamic Many-Objective Molecular Optimization: Unfol
 
 ![Main Overview](./DyMol_Figure.png)
 
+**TL;DR:** We propose a novel method for dynamic many-objective molecular optimization using objective decomposition and progressive optimization. 
+
+(a) **Objective Decomposition:** our method decomposes complex many-objective sets into more manageable sub-problems facilitated by our decomposition module.
+(b) **Progressive Optimization:** the optimization begins with a single objective and systematically incorporates additional objectives based on the decomposition order.
+
+
+
 
 ## Paper:
 For full paper (including the supplementary material), please [click here](./DyMol_FullPaper.pdf).
