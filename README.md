@@ -1,7 +1,7 @@
 # DyMol (Dynamic Many-Objective Molecular Optimization: Unfolding Complexity with Objective Decomposition and Progressive Optimization)
 Official implementation of "Dynamic Many-Objective Molecular Optimization: Unfolding Complexity with Objective Decomposition and Progressive Optimization"
 
-![Main Overview](./DyMol_Figure.png)
+![Main Overview](./DyMol_Figure1.tiff)
 
 
 ## Paper:
