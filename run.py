@@ -39,7 +39,7 @@ class MultiOracle(Oracle):
             score = oracle(*args, **kwargs)
             name = oracle.name
             if name == "sa":
-                score /= 10
+                score = (10 - score)/9
             temp_list.append(score * weight)
             self.temp_oracle_score[name] = score
             temp_hyper.append(score)
